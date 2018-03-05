@@ -15,5 +15,7 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["npool.pw/bitsum", "http://sum.npool.pw:10070"]
+        ["npool.pw/bitsum", "http://sum.npool.pw:10070"],
+        ["sum.dreampool.info", "https://sum.dreampool.info/api"],
+        ["pool.bitsum.uz", "http://pool.bitsum.uz:8117"]
 ];
