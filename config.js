@@ -17,5 +17,7 @@ var themeCss = "themes/default-theme.css";
 var networkStat = [
         ["npool.pw/bitsum", "http://sum.npool.pw:10070"],
         ["sum.dreampool.info", "https://sum.dreampool.info/api"],
-        ["pool.bitsum.uz", "http://pool.bitsum.uz:8117"]
+        ["pool.bitsum.uz", "http://pool.bitsum.uz:8117"],
+        ["sum.multipool.online", "http://sum.multipool.online:8120"],
+	["sum.gonspool.com", "http://sum.gonspool.com:8118"]
 ];
